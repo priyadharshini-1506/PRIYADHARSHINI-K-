@@ -1,6 +1,6 @@
 <div align="center">
 
-# K. Priyadharshini
+# PRIYADHARSHINI K
 
 **AI & Data Science &nbsp;·&nbsp; Machine Learning / NLP &nbsp;·&nbsp; Full Stack Development**
 
