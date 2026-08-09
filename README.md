@@ -1,4 +1,4 @@
-# K. Priyadharshini
+# PRIYADHARSHINI K
 
 AI & Data Science Undergraduate | Machine Learning & NLP | Full Stack Developer
 Chennai, Tamil Nadu, India
